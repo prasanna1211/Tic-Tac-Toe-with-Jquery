@@ -1,0 +1,16 @@
+.board {
+  height: 609px;
+  width: 606px;
+  border: 1px solid black;
+}
+.row {
+  height: 202px;
+  width: 606px;
+  border: 1px solid black;
+}
+.cell {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  float: left;
+}
