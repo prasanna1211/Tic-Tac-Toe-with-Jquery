@@ -13,4 +13,11 @@
   width: 200px;
   border: 1px solid black;
   float: left;
+  font-size: 92px;
+  text-align: center;
+  line-height: 190px;
 }
+.Xwin, .Owin, .Draw {
+  font-size: 45px;
+}
+//float
